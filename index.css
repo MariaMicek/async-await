@@ -1,0 +1,10 @@
+.users-list-container{
+    display: flex;
+    justify-content: center;
+    align-items: 'center';
+}
+
+.container-left, .container-right{
+    box-sizing: border-box;
+    padding: 50px;
+}
